@@ -5,5 +5,4 @@
 -	Link Kaggle: https://www.kaggle.com/competitions/tmdb-box-office-prediction
 
 # 2. Hướng dẫn chạy code:
-1) Download tất cả file và giải nén
-2) Tải file notebook lên Google Colab, sau đó tải các file .csv lên và chạy.
+- Tải file notebook lên Google Colab và chạy.
