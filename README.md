@@ -17,12 +17,12 @@
 # **Giai đoạn 2: Khai thác thông tin cơ bản của dữ liệu**
 ## **2.1. Chuẩn bị dữ liệu**
 ## **2.2. Phân tích - Khám phá Dữ liệu**
-### **2.2.1. Cấu trúc bộ dữ liệu**
-### **2.2.2. Chất lượng bộ dữ liệu**
-### **2.2.3. Nội dung bộ dữ liệu**
-- Phân tích đơn biến.
-- Phân tích hai biến.
-- Phân tích đa biến.
+- Cấu trúc bộ dữ liệu.
+- Chất lượng bộ dữ liệu.
+- Nội dung bộ dữ liệu.
+  - Phân tích đơn biến.
+  - Phân tích hai biến.
+  - Phân tích đa biến.
 
 # **Giai đoạn 3: Trích chọn đặc trưng (Feature Selection), Rút trích đặc trưng (Feature Extraction), Khai thác dữ liệu (Data mining), Thực nghiệm và đánh giá kết quả**
 ## **3.1. Trích chọn đặc trưng và Rút trích đặc trưng**
